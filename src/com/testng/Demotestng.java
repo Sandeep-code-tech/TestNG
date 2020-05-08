@@ -17,6 +17,10 @@ public class Demotestng {
 		sum(50,60);
 		
 }
+	@Test
+	public void add()
+	{
+		sum(50,60, 70);
 	public void sum(int a, int b)
 	{ 
 		int sum=0;

@@ -14,7 +14,7 @@ public class Demotestng {
 	@Test
 	public void add()
 	{
-		sum(50,60);
+		sum(50,60,90);
 		
 }
 	public void sum(int a, int b)

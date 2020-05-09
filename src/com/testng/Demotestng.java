@@ -17,6 +17,11 @@ public class Demotestng {
 		sum(50,60,90,100);
 		
 }
+	public void add2()
+	{
+		sum(50,60,90,100);
+		
+}
 	@Test
 	void show1()
 	{

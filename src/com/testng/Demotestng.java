@@ -28,11 +28,7 @@ public class Demotestng {
 		System.oout.println("Hi");
 	}
 	
-	@Test
-	void show2()
-	{
-		System.oout.println("Hi");
-	}
+	
 	
 	@Test
 	public void add()

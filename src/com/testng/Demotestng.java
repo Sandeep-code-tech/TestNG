@@ -18,6 +18,11 @@ public class Demotestng {
 		
 }
 	@Test
+	vooid show()
+	{
+		System.oout.println("Hi");
+	}
+	@Test
 	public void add()
 	{
 		sum(50,60, 70);

@@ -18,10 +18,17 @@ public class Demotestng {
 		
 }
 	@Test
-	vooid show()
+	void show1()
 	{
 		System.oout.println("Hi");
 	}
+	
+	@Test
+	void show2()
+	{
+		System.oout.println("Hi");
+	}
+	
 	@Test
 	public void add()
 	{

@@ -19,13 +19,13 @@ public class Demotestng {
 }
 	public void add2()
 	{
-		sum(50,60,90,100);
+		sum(50,60,90,111,100);
 		
 }
 	@Test
 	void show1()
 	{
-		System.oout.println("Hi");
+		System.out.println("Hello");
 	}
 	
 	
